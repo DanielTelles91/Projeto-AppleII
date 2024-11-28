@@ -7,3 +7,5 @@ Este repositório é responsável em organizar o desenvolvimento da réplica App
 4) Keyboard PS2 to Apple Keyboard ASCI: https://github.com/DanielTelles91/AppleII-Keyboard
 5) DiskII Controller Card: https://github.com/DanielTelles91/DiskII
 6) HDMI Card: https://github.com/DanielTelles91/A2DVI
+7) Language Card: https://github.com/DanielTelles91/LanguageCard
+   
