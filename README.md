@@ -1,7 +1,10 @@
 # Projeto-AppleII
 This repository organizes and documents the development of an Apple II REV. 0.
+
 Each repository contains schematics, PCB layouts, documentation, and photos related to its respective module.
+
 The project is divided into multiple sub-repositories, each focusing on a specific hardware component of the system:
+
 
 1) Apple Motherboard: https://github.com/DanielTelles91/AppleII-Motherboard
 2) ROM Adapter 2513 to 2716: https://github.com/DanielTelles91/2513CharGenAdapter
