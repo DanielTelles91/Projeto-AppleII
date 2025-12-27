@@ -20,4 +20,14 @@ architecture while documenting the full hardware development process.
 6) HDMI Card: https://github.com/DanielTelles91/A2DVI
 7) Language Card: https://github.com/DanielTelles91/LanguageCard
 
+![image](https://github.com/user-attachments/assets/0efe4e00-578f-4b1f-8bdf-25cdbe1f073a)
+
+
+![image](https://github.com/user-attachments/assets/5c9ae1d2-a85e-4414-b733-7d8e943eedf1)
+
+![image](https://github.com/user-attachments/assets/52ad3a80-41a6-4c1e-ac49-100087563871)
+
+![image](https://github.com/user-attachments/assets/a6dcbf68-ece1-4df9-ba61-a31d84ccdc99)
+
+
 
