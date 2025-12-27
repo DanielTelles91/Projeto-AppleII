@@ -1,9 +1,15 @@
-# Projeto-AppleII
-This repository organizes and documents the development of an Apple II REV. 0.
+# Apple II Rev. 0 Replica
 
-Each repository contains schematics, PCB layouts, documentation, and photos related to its respective module.
+This repository documents the complete development of a functional
+Apple II Revision 0 replica, following the original schematics,
+layout, and design principles.
 
-The project is divided into multiple sub-repositories, each focusing on a specific hardware component of the system:
+The project is organized into multiple hardware-specific
+sub-repositories. Each one contains schematics, PCB layouts,
+documentation, and photos related to a specific module of the system.
+
+The goal is to faithfully reproduce the original Apple II Rev. 0
+architecture while documenting the full hardware development process.
 
 
 1) Apple Motherboard: https://github.com/DanielTelles91/AppleII-Motherboard
